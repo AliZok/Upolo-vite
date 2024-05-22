@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'FarsiFont';
+    src: url('~@/assets/fonts/ttf/Vazirmatn-Black.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'FarsiFont';
+    color: #4e4e4e;
+}

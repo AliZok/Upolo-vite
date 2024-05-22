@@ -1,0 +1,18 @@
+{
+  "modules": [
+    {
+      "folder_name":"module1",
+      "isActive": false
+    },
+    {
+
+      "folder_name":"module2",
+      "isActive": true
+    },
+    {
+
+      "folder_name":"module3",
+      "isActive": true
+    }
+  ]
+}
